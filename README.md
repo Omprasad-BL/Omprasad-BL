@@ -3,8 +3,8 @@
 - FullStack Developer
 - 💞️ I’m looking to collaborate on Web
 - 📫 reach me @ omprasadbl@gmail.com
-- Status Of knowledge HTML5, CSS3, Javascript, Java, Mysql,
-- Tailwind CSS, React JS, Spring MVC
+- Status Of knowledge HTML5, CSS3 , SASS , Javascript ,NodeJs , Express Java , Mysql , MongoDB
+- Tailwind CSS , React JS , Spring MVC, Figma Design.
 
 <!---
 Omprasad-BL/Omprasad-BL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
