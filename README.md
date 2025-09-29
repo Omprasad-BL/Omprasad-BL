@@ -3,7 +3,7 @@
 - FullStack Developer / Tech Enthusiast
 - 💞️ I’m looking to collaborate on Web
 - 📫 reach me @ omprasadbl@gmail.com
-- Status Of knowledge HTML5, CSS3 , SASS , Javascript ,NodeJs , Java , Mysql , MongoDB
+- Status Of knowledge HTML5, CSS3 , SASS , Javascript, TypeScript ,NodeJs , Java , Mysql , MongoDB, Jest, Bun.
 - Tailwind CSS , React JS , Express JS , Spring MVC , Figma Design.
 
 <!---
